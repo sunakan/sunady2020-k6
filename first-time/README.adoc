@@ -1,0 +1,3 @@
+== サンプルを打つだけ
+
+image:https://user-images.githubusercontent.com/43210698/74209075-9cbd2380-4cc9-11ea-9536-8bf75ed3d980.gif[first-step-demo]
