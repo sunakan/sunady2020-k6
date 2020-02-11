@@ -1,0 +1,9 @@
+== vus と duration オプション追加
+
+* vus ==> Virtual Users
+** 基本並列で動くっぽい
+
+
+=== Demo
+
+image:https://user-images.githubusercontent.com/43210698/74210884-e52c0f80-4cd0-11ea-8c13-9388e179447c.gif[demo]
